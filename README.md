@@ -6,3 +6,4 @@
 [SpringBoot学习|(五)Thymeleaf模板的整合](https://cqjokers.top/note/2018/08/13/27afc888.html)<br>
 [SpringBoot学习|(六)Servlet、Filter、Listener配置](https://cqjokers.top/note/2018/08/13/38067409.html)<br>
 [SpringBoot学习|(七)Mybatis的整合](https://cqjokers.top/note/2018/08/14/8b2a3900.html)<br>
+[SpringBoot学习|(八)拦截器的添加](https://cqjokers.top/note/2018/08/15/513b7b6a.html)<br>
